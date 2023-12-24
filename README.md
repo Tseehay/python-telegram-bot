@@ -2,7 +2,7 @@
 
 # What can this bot do?
 
-It's simply register to member of Gubye_nikodimoos
+It's simply register to member of ጉባኤ ኒቆዲሞስ
 
 
 The Bot Bio <br>
